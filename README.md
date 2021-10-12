@@ -1,12 +1,14 @@
 # reading-adventure
 
+This repo purpose is to manage a list of books for reading in a software club.
+
+[System design interview](https://www.amazon.com/-/System-Design-Interview-%E2%80%93-An-insider-s-guide-Second-Edition/dp/B08CMF2CQF/ref=cm_wl_huc_item)
+
 [Fundamentals of Software Architecture: An Engineering Approach](https://www.amazon.com/-/es/dp/1492043451/?coliid=I34QFZRQBYKUBI&colid=2HJQ1KDWU75LS&psc=1&ref_=lv_ov_lig_dp_it)
 
 [Building Evolutionary Architecture](https://www.amazon.com/-/dp/1491986360/?coliid=I1BO0DW644PAXM&colid=2HJQ1KDWU75LS&psc=0&ref_=lv_ov_lig_dp_it)
 
 [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/-/dp/1449373321/?coliid=IUNSAZM1KQ9RM&colid=2HJQ1KDWU75LS&psc=1&ref_=lv_ov_lig_dp_it)
-
-[System design interview](https://www.amazon.com/-/System-Design-Interview-%E2%80%93-An-insider-s-guide-Second-Edition/dp/B08CMF2CQF/ref=cm_wl_huc_item)
 
 [Target Costing and Value Engineering (Strategies in Confrontational Cost Management)](https://www.amazon.com/-/dp/1563271729/?coliid=IRE1I2TC02EIK&colid=2HJQ1KDWU75LS&psc=1&ref_=lv_ov_lig_dp_it)
 
